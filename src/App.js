@@ -1,5 +1,4 @@
-import image from './images/JavaScript-Developer-Memes.jpg';
-import './App.css';
+import image from './images/wedPhoto.jpg';
 
 import Button from "./components/Button.js"
 function App() {
