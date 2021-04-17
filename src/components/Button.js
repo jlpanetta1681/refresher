@@ -8,7 +8,7 @@ function Button() {
     return (
         <div id="button row">
             <button id="My button" onClick={myClick}>Press me</button>
-            <button id="My button" onClick={myClick}>Press me</button>
+
         </div>
     )
 }
